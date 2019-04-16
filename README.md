@@ -1,5 +1,5 @@
 # Themed Situational Awareness
-An extension of the Esri situational awareness widget that lets you groupd tabs in to themes.
+An extension of the Esri situational awareness widget that lets you group tabs in to themes.
 
 This widget lets you group tabs created in the situational awareness widget in to themes. This then allows you to quickly filter the returned tabs based on the themes you have created.
 
